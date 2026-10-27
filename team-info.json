@@ -1,0 +1,33 @@
+{
+    "team_name": "Bumblebee",
+    "students": [
+        {
+            "student_id": "k12140598",
+            "first_name": "Olha",
+            "last_name": "Yehorova",
+            "email": "olhayehorova2004@gmail.com",
+            "github_user": "Olya092"
+        },
+        {
+            "student_id": "k00",
+            "first_name": "Ivanna",
+            "last_name": "..",
+            "email": "..",
+            "github_user": ".."
+        },
+        {
+            "student_id": "k00",
+            "first_name": "Mykhailo",
+            "last_name": "..",
+            "email": "..",
+            "github_user": ".."
+        },
+        {
+            "student_id": "k00",
+            "first_name": "Günter",
+            "last_name": "..",
+            "email": "..",
+            "github_user": ".."
+        }
+    ]
+}

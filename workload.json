@@ -1,0 +1,25 @@
+{
+    "team_name": "Bumblebee",
+    "students": [
+        {
+            "first_name": "Olha",
+            "last_name": "Yehorova",
+            "workload": 0.25
+        },
+        {
+            "first_name": "First",
+            "last_name": "Last",
+            "workload": 0.25
+        },
+        {
+            "first_name": "First",
+            "last_name": "Last",
+            "workload": 0.25
+        },
+        {
+            "first_name": "First",
+            "last_name": "Last",
+            "workload": 0.25
+        }
+    ]
+} 
