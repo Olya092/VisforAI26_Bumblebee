@@ -1,0 +1,5 @@
+{}
+a photo of a {}
+a picture of a {}
+an image containing a {}
+an illustration depicting a {}
