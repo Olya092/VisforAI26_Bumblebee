@@ -2,3 +2,4 @@ data/
 outputs/
 .venv/
 __pycache__/
+.gitignore
