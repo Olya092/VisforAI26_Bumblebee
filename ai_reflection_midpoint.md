@@ -2,7 +2,7 @@
 
 **AI-aided pair:**
 - Ivanna Pshenychna, k12148365
-- [first and last name], [student ID]
+- Günter Platzer, k8326299
 
 
 ## What we did with AI
