@@ -1,4 +1,4 @@
-# Phase I – AI interaction log (AI pair)
+# Phase I – AI interaction log (AI pair: Ivanna Pshenychna k12148365)
 
 ## Summary
 
