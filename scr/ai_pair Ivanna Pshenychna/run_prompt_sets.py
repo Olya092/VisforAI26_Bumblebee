@@ -154,7 +154,7 @@ def main():
             np.stack([np.asarray(im) for im in images]).astype(np.uint8))
 
     import csv
-    with open(os.path.join("scr", "ai_pair", "predictions_summary.csv"), "w", newline="") as f:
+    with open(os.path.join("scr", "ai_pair Ivanna Pshenychna", "predictions_summary.csv"), "w", newline="") as f:
         w = csv.writer(f)
         w.writerow(["image_id", "actual_class", "superclass"]
                    + [f"pred_{k}" for k in set_keys] + [f"ptrue_{k}" for k in set_keys])
@@ -170,7 +170,7 @@ def main():
     print("\nAccuracy on original images:")
     for si, key in enumerate(set_keys):
         print(f"  {key:14s} {(logits[0, si].argmax(1) == labels).mean():.3f}")
-    print(f"\nSaved to {OUT_DIR}/ and scr/ai_pair/predictions_summary.csv")
+    print(f"\nSaved to {OUT_DIR}/ and scr/ai_pair Ivanna Pshenychna/predictions_summary.csv")
 
 
 if __name__ == "__main__":
