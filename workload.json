@@ -4,22 +4,22 @@
         {
             "first_name": "Olha",
             "last_name": "Yehorova",
-            "workload": 0.33
+            "workload": 0.25
         },
         {
             "first_name": "Mykhailo",
             "last_name": "Barabash",
-            "workload": 0.33
+            "workload": 0.25
         },
         {
             "first_name": "Ivanna",
             "last_name": "Pshenychna",
-            "workload": 0.33
+            "workload": 0.25
         },
         {
             "first_name": "Günter",
             "last_name": "Platzer",
-            "workload": 0.01
+            "workload": 0.25
         }
     ]
 } 
