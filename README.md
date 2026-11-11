@@ -5,6 +5,7 @@ Phase I:
         Olha Yehorova k12140598
     AI Pair:
         Ivanna Pshenychna k12148365
+        Günter Platzer k8326299
 
 Our task: 
 CLIP prompt sensitivity: 
